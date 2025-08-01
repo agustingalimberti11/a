@@ -1,0 +1,7 @@
+selenium==3.141.0
+pytest
+pytest-html
+openpyxl
+webdriver-manager==3.7.1
+python-dotenv
+requests
